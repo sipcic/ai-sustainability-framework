@@ -75,6 +75,7 @@ The **Sustainable Life Index (SLI)** emerges as more than a model; it is **a rat
 
 The urgency is clear: only by **embedding equilibrium into innovation itself can humanity ensure that AI’s evolution amplifies life’s continuity — not its collapse.**
 
+---
 
 ### 1. Introduction
 
@@ -228,6 +229,7 @@ The **multiplicative model**, by contrast, captures interdependence and nonlinea
 
 Together, these complementary perspectives offer a more complete understanding of how technological, social, and environmental forces interact under accelerating AI-driven change, setting the foundation for future exploration of **hybrid and dynamic equilibrium models**.
 
+---
 
 ### 2. Existing Sustainability Index Frameworks
 
@@ -308,6 +310,7 @@ The Sustainable Life Index builds upon existing indices but introduces three con
 
 The SLI therefore complements — rather than replaces — prior sustainability indices by addressing a structural gap: the absence of an integrated framework capturing **AI-driven productivity, labor participation, and ecological boundaries** as co-determinants of sustainable life.
 
+---
 
 ### 3. AI, Productivity, and Systemic Impacts on the Sustainable Life Index
 
@@ -459,6 +462,8 @@ By integrating AI intensity into the SLI, we can measure how technological accel
 
 Ultimately, the objective is **not to maximize SLI**, but to **stabilize it**: achieving a sustainable equilibrium in which productivity gains support — rather than undermine — the foundations of life and equity.
 
+---
+
 ### 4. Measuring and Applying the Sustainable Life Index
 
 #### 4.1 From Concept to Measurement
@@ -546,6 +551,8 @@ In an age where AI redefines the tempo of change, sustaining equilibrium demands
 
 By quantifying how productivity, equity, and environment co-evolve, the SLI can help societies replace reactive policymaking with **evidence-based orchestration of the future.**
 
+---
+
 ### 5. Calls to Action — Sustaining Equilibrium in the Age of Accelerated Intelligence
 
 #### 5.1 The Price of Unchecked Acceleration
@@ -631,7 +638,6 @@ Humanity stands at a bifurcation point:
 The SLI is proposed not as an academic construct but as a **governance compass** — a rational method to measure, predict, and steer this balance.
 
 
-
 #### 5.5 The Imperative
 
 If we fail to manage equilibrium, the future will not collapse dramatically; it will **fade into dysfunction** — economies efficient but unequal, ecosystems optimized but exhausted, citizens informed but powerless.  
@@ -649,6 +655,8 @@ Reestablishing equilibrium is not the task of technology alone but the **shared 
 > **Intenstions define outcomes**.
 
 Only by aligning **intelligence with intention** can we ensure that the age of AI becomes not humanity’s acceleration toward collapse, but its most rational act of survival.
+
+---
 
 ### References
 
@@ -710,6 +718,8 @@ Only by aligning **intelligence with intention** can we ensure that the age of A
 38. Swift, J. (1721). *The Drapier’s Letters.*  
 39. Tyson, N. D. (2014). *Cosmos: A Spacetime Odyssey.* National Geographic / FOX.  
 40. Popper, K. (1959). *The Logic of Scientific Discovery.* Routledge.
+
+---
 
 ### Table of Abbreviations
 
