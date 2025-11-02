@@ -740,7 +740,7 @@ Only by aligning **intelligence with intention** can we ensure that the age of A
 | **$x_i$** | Generic SLI component $\{L_r,C_r,W_r,R,E_r,G\}$ | For compact notation |
 | **$\omega_i$** | Weight for component $x_i$ | $\sum \omega_i=1$ (additive); elasticity (multiplicative) |
 | **$S_A$** | Composite sensitivity of SLI to AI $\partial \text{SLI}/\partial A$ | Section 3.3 |
-| **\(\frac{d(\text{SLI})}{dt}\)** | Total time derivative of SLI | Dynamic equilibrium condition |
+| **$\frac{d(\text{SLI})}{dt}$** | Total time derivative of SLI | Dynamic equilibrium condition |
 | **Additive SLI** | $\text{SLI}_{add}=\sum_i \omega_i x_i$ | Linear trade-offs |
 | **Multiplicative SLI** | $\text{SLI}_{mult}=\prod_i x_i^{\omega_i}$ (with inversions for harms) | Interdependence / weakest-link |
 | **Elasticity** | $\frac{\partial \ln \text{SLI}}{\partial \ln x_i}=\omega_i$ (multiplicative) | Interprets weights as % responsiveness |
