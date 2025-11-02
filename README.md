@@ -5,15 +5,10 @@
 by
 
 Slobodan Sipcic, PhD
-
 Founder and CTO, nous-tech.ai
-
 sipcic@nous-tech.ai
 
 <br/>
-<br/>
-<br/>
-
 
 ### Prologue
 
