@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# Allow this file
+!README.md
+
+# Ignore Gitignore itself if needed
+!.gitignore
