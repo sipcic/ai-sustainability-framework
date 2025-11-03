@@ -4,7 +4,7 @@
 ### Govern Intelligence Before It Governs Us: A Framework for Sustainable Life
 by
 
-Slobodan Sipcic, PhD<br/>Founder and CTO, nous-tech.ai<br/>sipcic@nous-tech.ai
+**Slobodan Sipcic, PhD**<br/>Founder and CTO, nous-tech.ai<br/>sipcic@nous-tech.ai
 
 
 ---
